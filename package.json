@@ -40,7 +40,7 @@
     "angular-moment": "^1.3.0",
     "blog-lib-influxiq": "0.0.3",
     "domino": "^2.1.3",
-    "express": "^4.15.2",
+    "express": "^4.18.2",
     "file-upload-lib-influxiq": "0.0.12",
     "font-awesome": "^4.7.0",
     "hammerjs": "^2.0.8",
